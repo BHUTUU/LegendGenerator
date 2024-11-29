@@ -34,6 +34,11 @@
 3. **Configure Options:** Select your data source, target drawing, and choose whether to generate a LISP file.
 4. **Generate Legends:** Click the "Launch" button to create the legends at the origin of the coordinate plane in AutoCAD’s model space.
 
+## Additions
+
+1. Added Dynamo scipt if user want to use it through civil 3D directly, it works much faster if we compare it to fully python version.
+2. Added a demo source.xlsx file for users convenient as to understand the format of the required source file also user can add their layers and keys in the respective columns in this file only and use as the source whether they are using it through python version or Dynamo version.
+
 ## Contribution
 
 We welcome contributions to the Utility Legend Generator tool. If you have any suggestions, improvements, or encounter any issues, feel free to reach out.
